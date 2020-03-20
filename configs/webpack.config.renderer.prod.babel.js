@@ -109,6 +109,9 @@ export default merge.smart(baseConfig, {
             }
           },
           {
+            loader: 'postscss-loader'
+          },
+          {
             loader: 'sass-loader',
             options: {
               sourceMap: true

@@ -1,4 +1,8 @@
 {
-  "HOME": "/",
-  "COUNTER": "/counter"
+  "INDEX": "/",
+  "HOME": "/home",
+  "COUNTER": "/counter",
+  "APP": "/app",
+  "USER": "/user",
+  "ERROR": "/error"
 }
